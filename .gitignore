@@ -1,0 +1,6 @@
+.env
+book_library_api.rar
+.idea/
+.pytest_cache/
+__pycache__/
+venv/
