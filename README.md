@@ -2,7 +2,8 @@
 
 REST API for online library. It supports authors of books and books resources including authentication (JWT Token).
 
-The documentation can be found [here](https://documenter.getpostman.com/view/27068309/2s93sXcaBx#8a3b4476-a979-486d-b60b-630adba634b0)
+The documentation can be found [here](https://documenter.getpostman.com/view/27068309/2s93sXcaBx#8a3b4476-a979-486d-b60b-630adba634b0) and
+[dbdiagram.io](https://dbdiagram.io/d/64613a0edca9fb07c40f66e7)
 
 ## Setup
 
